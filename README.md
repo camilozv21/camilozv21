@@ -1,14 +1,32 @@
-### Hola soy Juan Camilo Zapata Velez, gracias por visitar mi perfil 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200">
+    <h1 align="center">Hello 👋, I'm Juan Camilo Zapata Velez. Thanks for visiting my profile!</h1>
+    <h3 align="center">A passionate web FullStack developer from Colombia. I like teaching what I learn with my co-workers</h3>
+</div>
 
-<!--
-**camilozv21/camilozv21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
-- 🔭 Actualmente estoy trabajando como auxiliar de docente en el ITM, pero aspiro a trabajar en una empresa de desarrollo de software.
-- 🌱 Ahora mismo estoy aprendiendo/haciendo un curso de desarrollo FullStack en la academia Digital House.
-- 👯 Sueño por trabajar en MELI como desarrollador.
-- 💬 Preguntame por: ¿Qué profesión tengo?, ¿Cuál es mi experiencia laboral?, ¿Qué otros lenguajes de programación conozco?
-- 📫 Me pueden contactar por mi perfil de LinkedIn
-- ⚡ Fun fact: A diferencia de algunos programadores, me encanta programar por hobby, más que un trabajo es una actividad que disfruto hacer.
+### 🧑‍💻 About me : 
+- 🦸 I'm currently working as a teaching assistant at ITM, but my aspiration is to work in a software development company.
 
+- 🧙 I'm currently learning/doing a FullStack development course at Digital House Academy.
+
+- 🛒 My dream is to work at MELI as a developer.
+
+- 💬 Ask me about my profession, my work experience, or other programming languages I know.
+
+- 📫 You can contact me through my LinkedIn profile.
+
+- 🐒 Fun fact: Unlike some programmers, I love programming as a hobby more than as a job. It's an activity that I enjoy doing.
+
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+    </div>
+</div>
