@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="250">
         <h1 align="center">Hello <img src="https://media.giphy.com/media/pbOVplMQUrJw5gEHOk/giphy.gif" width="40"/>, I'm Juan Camilo Zapata Velez. Thanks for visiting my profile!</h1>
-        <h3 align="center">A passionate web FullStack developer from Colombia. I like teaching what I learn with my co-workers</h3>
+        <h3 align="center">A passionate Web FullStack Developer and a Mechatronic Engineer from Colombia. I like teaching what I learn with my co-workers</h3>
 </div>
 
 ---
