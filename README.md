@@ -28,5 +28,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="github" width="40" height="40"/>&nbsp;
     </div>
 </div>
+
+---
+
+### 📊 My status: 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camilozv21&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilozv21&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
