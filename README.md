@@ -11,7 +11,7 @@
 
 - 🧙 I'm currently learning/doing a FullStack development course at Digital House Academy.
 
-- 🛒 My goal is to work at MELI as a developer.
+- 🛒 My goal is to work as a developer or data engineer.
 
 - 💬 Ask me about my profession, my work experience, or other programming languages I know.
 
