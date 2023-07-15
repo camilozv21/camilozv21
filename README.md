@@ -7,9 +7,9 @@
 ---
 
 ### 🧑‍💻 About me : 
-- 🦸 I'm currently working as a teaching assistant at ITM, but my aspiration is to work in a software development company.
+- 🦸 My aspiration is to work in a software development company.
 
-- 🧙 I'm currently learning/doing a FullStack development course at Digital House Academy.
+- 🧙 I've already completed a FullStack development course at Digital House Academy.
 
 - 🛒 My goal is to work as a developer or data engineer.
 
