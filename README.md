@@ -7,11 +7,13 @@
 ---
 
 ### 🧑‍💻 About me : 
+## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: <a href="https://github.com/gaetanof/grupo_8_RevivalClothes">Revival Clothing</a></strong>
+
 - 🦸 My aspiration is to work in a software development company.
 
 - 🧙 I've already completed a FullStack development course at Digital House Academy.
 
-- 🛒 My goal is to work as a developer or data engineer.
+- 🛒 My goal is to work as a developer.
 
 - 💬 Ask me about my profession, my work experience, or other programming languages I know.
 
