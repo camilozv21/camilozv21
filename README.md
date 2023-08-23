@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 About me : 
-## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: <a href="https://github.com/gaetanof/grupo_8_RevivalClothes">Revival Clothing</a></strong>
+## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: <a href="https://github.com/gaetanof/grupo_8_RevivalClothes" target="_blank">Revival Clothing</a></strong>
 
 - 🦸 My aspiration is to work in a software development company.
 
