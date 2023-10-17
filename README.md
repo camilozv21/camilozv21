@@ -17,6 +17,7 @@
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
+        <img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="JS" width="40" height="40"/>&nbsp;
