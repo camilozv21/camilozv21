@@ -7,19 +7,13 @@
 ---
 
 ### 🧑‍💻 About me : 
-## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: <a href="https://github.com/gaetanof/grupo_8_RevivalClothes" target="_blank">Revival Clothing</a></strong>
-
-- 🦸 My aspiration is to work in a software development company.
+## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: </strong>[Revival Clothing](https://github.com/gaetanof/grupo_8_RevivalClothes)
 
 - 🧙 I've already completed a FullStack development course at Digital House Academy.
-
-- 🛒 My goal is to work as a developer.
 
 - 💬 Ask me about my profession, my work experience, or other programming languages I know.
 
 - 📫 You can contact me through my LinkedIn profile.
-
-- 🐒 Fun fact: Unlike some programmers, I love programming as a hobby more than as a job. It's an activity that I enjoy doing.
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
