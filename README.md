@@ -6,7 +6,9 @@
 ---
 
 ### 🧑‍💻 About me : 
-## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: </strong>[Revival Clothing](https://github.com/gaetanof/grupo_8_RevivalClothes)
+## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: </strong>
+## <strong>[Revival Clothing](https://github.com/gaetanof/grupo_8_RevivalClothes)</strong>
+
 
 - 🧙 I've already completed a FullStack development course at Digital House Academy.
 
