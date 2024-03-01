@@ -1,16 +1,16 @@
 <div id="header" align="center">
         <h1 align="center">Hello <img src="https://media.giphy.com/media/pbOVplMQUrJw5gEHOk/giphy.gif" width="40"/>, I'm Juan Camilo Zapata Velez. Thanks for visiting my profile!</h1>
-        <h3 align="center">A passionate Web FullStack Developer and a Mechatronic Engineer from Colombia. I like teaching what I learn with my co-workers</h3>
+        <h3 align="center">A Web FullStack Developer and a Mechatronic Engineer from Colombia. I like teaching what I learn with my co-workers</h3>
 </div>
 
 ---
 
 ### 🧑‍💻 About me : 
 ## 🚀 <strong>I recommend you to visit my biggest project to date in this repository: </strong>
-## <strong>[Revival Clothing](https://github.com/gaetanof/grupo_8_RevivalClothes)</strong>
+## <strong>[Project Handler](https://github.com/camilozv21/Project-Handler)</strong>
 
 
-- 🧙 I've already completed a FullStack development course at Digital House Academy.
+- 🧙 I have experience developing full-stack applications using different stacks depending on the need..
 
 - 💬 Ask me about my profession, my work experience, or other programming languages I know.
 
