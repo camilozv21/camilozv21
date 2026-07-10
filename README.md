@@ -6,11 +6,10 @@
 ---
 
 ### 🧑‍💻 About me : 
-## 🚀 <strong>I recommend you to visit my biggest project to date in this repository, and visit the live site: </strong>[click here](https://www.contia.io/)
+## 🚀 <strong>I recommend you to visit my biggest project to date in this repository, and visit the live site: </strong>[click here](https://www.onepercent.bot)
 
-## <strong>[ContiA](https://www.contia.io/)</strong>
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/07aaa11c-79e7-4c90-8ad6-2f876d52b510" tittle="Picture">
+## <strong>[onepercent](https://www.onepercent.bot)</strong>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2c513362-e6ea-423c-ab7b-30ecd92fbf58" tittle="Picture">
 
 
 - 🧙 I have experience developing full-stack applications using different stacks depending on the need..
