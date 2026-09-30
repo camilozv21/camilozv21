@@ -9,8 +9,7 @@
 ## 🚀 <strong>I recommend you to visit my biggest project to date in this repository, and visit the live site: </strong>[click here](https://www.onepercent.bot)
 
 ## <strong>[onepercent](https://www.onepercent.bot)</strong>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/2c513362-e6ea-423c-ab7b-30ecd92fbf58" tittle="Picture">
-
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/24aeebd1-cbd3-4c9f-8f0f-c0e2478c6c5b" tittle="Picture">
 
 - 🧙 I have experience developing full-stack applications using different stacks depending on the need..
 
